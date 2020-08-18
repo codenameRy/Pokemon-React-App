@@ -1,6 +1,6 @@
 ##Pokemon App
 
-Built with React, GraphQL, and Pokemon API
+Built with React, GraphQL, Apollo Server, and Pokemon API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
